@@ -2,22 +2,22 @@
 [
   {
     "id": "1",
-    "name": "Алексей",
-    "email": "Alex@gmail.com"
+    "name": "Maksim",
+    "email": "Max@gmail.com"
   },
   {
     "id": "2",
-    "name": "Денис",
+    "name": "Denis",
     "email": "den4ik@gmail.com"
   },
   {
     "id": "3",
-    "name": "Кирилл",
+    "name": "Kirill",
     "email": "kiririn@gmail.com"
   },
   {
     "id": "4",
-    "name": "Павел",
+    "name": "Pavel",
     "email": "pashok@gmail.com"
   }
 ]
