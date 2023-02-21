@@ -1,0 +1,24 @@
+{"users":
+[
+  {
+    "id": "1",
+    "name": "Алексей",
+    "email": "Alex@gmail.com"
+  },
+  {
+    "id": "2",
+    "name": "Денис",
+    "email": "den4ik@gmail.com"
+  },
+  {
+    "id": "3",
+    "name": "Кирилл",
+    "email": "kiririn@gmail.com"
+  },
+  {
+    "id": "4",
+    "name": "Павел",
+    "email": "pashok@gmail.com"
+  }
+]
+}
